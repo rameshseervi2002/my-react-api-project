@@ -1,10 +1,8 @@
 import React from "react";
-import Home from "./MyComponets/Home";
-
 function App() {
   return (
     <div className="App">
-      <Home></Home>
+      <h1>Jai Shree Ram</h1>
     </div>
   );
 }
